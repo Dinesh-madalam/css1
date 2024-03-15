@@ -1,0 +1,33 @@
+.h1{
+    background-color: burlywood;
+}
+.h2{
+    background-color: silver;
+}
+.h3{
+    background-color:olivedrab;
+}
+.h4{
+    background-color:gold;
+}
+.h5{
+    background-color:goldenrod;
+}
+.cls3{
+    background-color: rgb(14, 43, 43) !important;
+}
+.H1{
+    background-color:magenta;
+}
+.H2{
+    background-color: maroon;
+}
+.H3{
+    background-color:dodgerblue;
+}
+.H4{
+    background-color:rgb(197, 213, 214);
+}
+.H5{
+    background-color:rgb(7, 10, 102);
+}
